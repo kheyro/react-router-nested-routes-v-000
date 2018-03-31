@@ -77,7 +77,7 @@ Let's create our __MoviesShow__ component. Later on, we will see that this compo
 >Note: Remember, containers are components that are directly connected to the store via the connect function.   
 
 ```javascript
-// ./src/containers/MoviesShow.js
+// ./src/containers/MovieShow.js
 import React from 'react';
 
 const MoviesShow = props => {
